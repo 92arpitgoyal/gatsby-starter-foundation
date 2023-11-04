@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: STUDIO KALATEET
 tagline: Graphic Designer
-featuredImage: /assets/3-gate-full.jpg
+featuredImage: /assets/eg-2.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
