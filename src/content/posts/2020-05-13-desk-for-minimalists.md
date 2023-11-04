@@ -8,7 +8,7 @@ featuredImage: /assets/benu-room-option-sep-3.jpg
 ---
  Hi we're Studio Kalateet. We provide architectural services. 
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+![Royal Mail](/assets/post-1.jpg "Royal Mail from Unsplash")
 
 ## It doesn't look so shiny to me.
 
